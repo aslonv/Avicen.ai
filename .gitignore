@@ -89,3 +89,4 @@ target/
 
 # Exlcude the database file
 .db
+telegram/model/Medical-Llama3-8B
